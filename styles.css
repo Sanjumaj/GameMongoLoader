@@ -1,0 +1,22 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 8px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+.hidden {
+    display: none;
+}
